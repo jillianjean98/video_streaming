@@ -10,7 +10,7 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
          <div id="__containerId__-layer269659907-text2562388365" style="position: absolute; left: 300px; top: 305px; width: 367px; height: 48px;-webkit-transform: rotate(0deg);transform: rotate(0deg);" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text2562388365" data-review-reference-id="text2562388365">\
             <div class="stencil-wrapper" style="width: 367px; height: 48px">\
                <div xmlns="http://www.w3.org/1999/xhtml" title=""><span class="default-text2-container-wrapper default-text2-version2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
-                        <p style="font-size: 14px;">Please navigate back if you would like to change your selection, otherwise you will be automatically redirected to the next\
+                        <p style="font-size: 14px;">Please navigate back if you would like to change your selection, otherwise you can close this window and return to the survey.\
                            page shortly.\
                         </p></span></span></div>\
             </div>\
