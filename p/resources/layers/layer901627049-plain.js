@@ -82,7 +82,7 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
 							[\
 								{"delay":"0","id":"reaction625271404","options":"withoutReloadOnly","target":"page578379116","transition":"none","type":"showPage"}\
 										,\
-									{"delay":"0","id":"reaction2890387","layer":"layer945800431","type":"toggleLayer","visibility":"toggle"}\
+									{"delay":"0","id":"reaction2890387","layer":"layer945800431","type":"toggleLayer","visibility":"show"}\
 							]\
 						);\
 					});\

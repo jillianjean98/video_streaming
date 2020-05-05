@@ -66,7 +66,7 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
 					rabbit.errorContext(function () {\
 						rabbit.interaction.manager.registerInteraction(\'__containerId__-layer465823899-d920e86311671379\', \'interaction657189548\', {"button":"left","id":"action437837471","numberOfFinger":"1","type":"click"},  \
 							[\
-								{"delay":"0","id":"reaction253737640","layer":"layer56941342","type":"toggleLayer","visibility":"hide"}\
+								{"delay":"0","id":"reaction253737640","layer":"layer465823899","type":"toggleLayer","visibility":"hide"}\
 										,\
 									{"delay":"0","id":"reaction573624896","layer":"layer945800431","type":"toggleLayer","visibility":"show"}\
 							]\
@@ -90,8 +90,8 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
          <div id="__containerId__-layer465823899-text2683962591" style="position: absolute; left: 295px; top: 325px; width: 367px; height: 48px;-webkit-transform: rotate(0deg);transform: rotate(0deg);" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text2683962591" data-review-reference-id="text2683962591">\
             <div class="stencil-wrapper" style="width: 367px; height: 48px">\
                <div xmlns="http://www.w3.org/1999/xhtml" title=""><span class="default-text2-container-wrapper default-text2-version2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
-                        <p style="font-size: 14px;">Please navigate back if you would like to change your selections, otherwise you can close this window and return to the survey.\
-                           page shortly.\
+                        <p>Please navigate back if you would like to change your selections, otherwise you will can close this window and return to the\
+                           survey.\
                         </p></span></span></div>\
             </div>\
          </div>\

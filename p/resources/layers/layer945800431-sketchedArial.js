@@ -51,11 +51,11 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
 					rabbit.errorContext(function () {\
 						rabbit.interaction.manager.registerInteraction(\'__containerId__-layer945800431-ellipse388257320\', \'1352571646\', {"button":"left","id":"1068819291","numberOfFinger":"1","type":"click"},  \
 							[\
-								{"delay":"0","id":"917936816","layer":"layer335880595","type":"toggleLayer","visibility":"show"}\
+								{"delay":"0","id":"917936816","layer":"layer474758838","type":"toggleLayer","visibility":"show"}\
 										,\
-									{"delay":"0","id":"125877589","layer":"layer679614633","type":"toggleLayer","visibility":"hide"}\
+									{"delay":"0","id":"125877589","layer":"layer935854602","type":"toggleLayer","visibility":"hide"}\
 										,\
-									{"delay":"0","id":"422082877","layer":"layer9355208","type":"toggleLayer","visibility":"hide"}\
+									{"delay":"0","id":"422082877","layer":"layer945800431","type":"toggleLayer","visibility":"hide"}\
 							]\
 						);\
 					});\
@@ -99,11 +99,11 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
 					rabbit.errorContext(function () {\
 						rabbit.interaction.manager.registerInteraction(\'__containerId__-layer945800431-ellipse420277\', \'1186907573\', {"button":"left","id":"2018803934","numberOfFinger":"1","type":"click"},  \
 							[\
-								{"delay":"0","id":"845208200","layer":"layer335880595","type":"toggleLayer","visibility":"hide"}\
+								{"delay":"0","id":"845208200","layer":"layer474758838","type":"toggleLayer","visibility":"hide"}\
 										,\
-									{"delay":"0","id":"1822134764","layer":"layer679614633","type":"toggleLayer","visibility":"show"}\
+									{"delay":"0","id":"1822134764","layer":"layer935854602","type":"toggleLayer","visibility":"show"}\
 										,\
-									{"delay":"0","id":"1062681618","layer":"layer9355208","type":"toggleLayer","visibility":"hide"}\
+									{"delay":"0","id":"1062681618","layer":"layer945800431","type":"toggleLayer","visibility":"hide"}\
 							]\
 						);\
 					});\

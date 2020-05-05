@@ -10,15 +10,15 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
          <div id="__containerId__-layer269659907-text2562388365" style="position: absolute; left: 300px; top: 305px; width: 367px; height: 48px;-webkit-transform: rotate(0deg);transform: rotate(0deg);" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text2562388365" data-review-reference-id="text2562388365">\
             <div class="stencil-wrapper" style="width: 367px; height: 48px">\
                <div xmlns="http://www.w3.org/1999/xhtml" title=""><span class="default-text2-container-wrapper default-text2-version2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
-                        <p style="font-size: 14px;">Please navigate back if you would like to change your selection, otherwise you can close this window and return to the survey.\
-                           page shortly.\
+                        <p>Please navigate back if you would like to change your selection, otherwise you will can close this window and return to the\
+                           survey.\
                         </p></span></span></div>\
             </div>\
          </div>\
          <div id="__containerId__-layer269659907-text2569052978" style="position: absolute; left: 390px; top: 260px; width: 132px; height: 20px;-webkit-transform: rotate(0deg);transform: rotate(0deg);" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text2569052978" data-review-reference-id="text2569052978">\
             <div class="stencil-wrapper" style="width: 132px; height: 20px">\
                <div xmlns="http://www.w3.org/1999/xhtml" title="" style="width:142px;width:-webkit-max-content;width:-moz-max-content;width:max-content;"><span class="default-text2-container-wrapper default-text2-version2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
-                        <p style="font-size: 14px;"><span style="font-size: 18px;">Total cost: <span class="bold">$1.99</span></span></p></span></span></div>\
+                        <p style="font-size: 14px;"><span style="font-size: 18px;">Total cost: <span class="bold">$9.99</span></span></p></span></span></div>\
             </div>\
          </div>\
          <div id="__containerId__-layer269659907-text2267962259" style="position: absolute; left: 20px; top: 20px; width: 37px; height: 17px;-webkit-transform: rotate(0deg);transform: rotate(0deg);" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 pidoco-clickable-element stencil mobile-interaction-potential-trigger " data-stencil-id="text2267962259" data-review-reference-id="text2267962259">\
@@ -74,7 +74,7 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
 										,\
 									{"delay":"0","id":"543696197","layer":"layer273195602","type":"toggleLayer","visibility":"hide"}\
 										,\
-									{"delay":"0","id":"95377987","layer":"layer323386979","type":"toggleLayer","visibility":"hide"}\
+									{"delay":"0","id":"95377987","layer":"layer269659907","type":"toggleLayer","visibility":"hide"}\
 										,\
 									{"delay":"0","id":"681599051","layer":"layer955297166","type":"toggleLayer","visibility":"show"}\
 							]\
