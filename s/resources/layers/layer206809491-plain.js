@@ -6,7 +6,7 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
                <div xmlns="http://www.w3.org/1999/xhtml" xmlns:pidoco="http://www.pidoco.com/util" title="" style="height: 45.0px;width:125.0px;">\
                   <svg xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden" width="125.0" height="45.0" viewBox="0 0 125.0 45.0"><a>\
                         <path fill-rule="evenodd" clip-rule="evenodd" fill="rgba(217, 102, 102, 1)" stroke="rgba(102, 102, 102, 1)" d="M5,44.5 l-2,-0.5 -1,-1 -1,-1.5 -0.5,-1.5 0,-35 0.5,-2 1,-1 1,-1 2,-0.5 107,0 0.5,0.5 1,0 1,1 1.5,1.5 8.5,18.5 -7.5,18.5 -2,2.5 -1.5,1 -0.5,0.5 z"></path>\
-                        <text x="59.5" y="22.5" dy="0.3em" fill="#FFFFFF" style="font-size:1em;stroke-width:0pt;" font-family="\'HelveticaNeue-Bold\'" text-anchor="middle" xml:space="preserve">Purchase Now</text></a></svg>\
+                        <text x="59.5" y="22.5" dy="0.3em" fill="#FFFFFF" style="font-size:1em;stroke-width:0pt;" font-family="\'HelveticaNeue-Bold\'" text-anchor="middle" xml:space="preserve">Checkout Now</text></a></svg>\
                </div>\
             </div>\
             <div class="interactive-stencil-highlighter" style="width: 125px; height: 45px"></div>\
