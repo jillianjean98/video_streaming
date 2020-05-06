@@ -83,7 +83,7 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
             <div class="stencil-wrapper" style="width: 367px; height: 48px">\
                <div xmlns="http://www.w3.org/1999/xhtml" title=""><span class="default-text2-container-wrapper default-text2-version2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
                         <p style="font-size: 14px;">Please navigate back if you would like to change your mind, otherwise you can close this window and return to the survey\
-                           shortly.\
+                           .\
                         </p></span></span></div>\
             </div>\
          </div>\
