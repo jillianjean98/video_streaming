@@ -188,15 +188,7 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
          <div id="__containerId__-layer117702625-1971247327" style="position: absolute; left: 295px; top: 325px; width: 367px; height: 48px;-webkit-transform: rotate(0deg);transform: rotate(0deg);" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="1971247327" data-review-reference-id="1971247327">\
             <div class="stencil-wrapper" style="width: 367px; height: 48px">\
                <div xmlns="http://www.w3.org/1999/xhtml" title=""><span class="default-text2-container-wrapper default-text2-version2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
-                        <p style="font-size: 14px;">Please navigate back if you would like to change your selections, otherwise you will be automatically redirected to the next\
-                           page .\
-                        </p></span></span></div>\
-            </div>\
-         </div>\
-         <div id="__containerId__-layer117702625-167282211" style="position: absolute; left: 380px; top: 295px; width: 163px; height: 20px;-webkit-transform: rotate(0deg);transform: rotate(0deg);" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="167282211" data-review-reference-id="167282211">\
-            <div class="stencil-wrapper" style="width: 163px; height: 20px">\
-               <div xmlns="http://www.w3.org/1999/xhtml" title="" style="width:173px;width:-webkit-max-content;width:-moz-max-content;width:max-content;"><span class="default-text2-container-wrapper default-text2-version2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
-                        <p style="font-size: 14px;"><span style="font-size: 18px;">Due today:  <span class="bold">$323.89</span></span></p></span></span></div>\
+                        <p>Please navigate back if you would like to change your selections, otherwise you may close this window and return to the survey.</p></span></span></div>\
             </div>\
          </div>\
       </div>\

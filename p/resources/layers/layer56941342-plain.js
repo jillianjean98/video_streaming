@@ -93,12 +93,6 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
                         <p style="font-size: 14px;">Your cost per month for the premium plan is $29.99</p></span></span></div>\
             </div>\
          </div>\
-         <div id="__containerId__-layer56941342-text2178885986" style="position: absolute; left: 380px; top: 295px; width: 153px; height: 20px;-webkit-transform: rotate(0deg);transform: rotate(0deg);" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text2178885986" data-review-reference-id="text2178885986">\
-            <div class="stencil-wrapper" style="width: 153px; height: 20px">\
-               <div xmlns="http://www.w3.org/1999/xhtml" title="" style="width:163px;width:-webkit-max-content;width:-moz-max-content;width:max-content;"><span class="default-text2-container-wrapper default-text2-version2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
-                        <p style="font-size: 14px;"><span style="font-size: 18px;">Due today:  <span class="bold">$29.99</span></span></p></span></span></div>\
-            </div>\
-         </div>\
          <div id="__containerId__-layer56941342-2057685685" style="position: absolute; left: 275px; top: 210px; width: 412px; height: 37px;-webkit-transform: rotate(0deg);transform: rotate(0deg);" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="2057685685" data-review-reference-id="2057685685">\
             <div class="stencil-wrapper" style="width: 412px; height: 37px">\
                <div xmlns="http://www.w3.org/1999/xhtml" title="" style="width:422px;width:-webkit-max-content;width:-moz-max-content;width:max-content;"><span class="default-text2-container-wrapper default-text2-version2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.textHeadline12">\
@@ -188,15 +182,13 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapi
          <div id="__containerId__-layer56941342-397463384" style="position: absolute; left: 295px; top: 330px; width: 367px; height: 48px;-webkit-transform: rotate(0deg);transform: rotate(0deg);" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="397463384" data-review-reference-id="397463384">\
             <div class="stencil-wrapper" style="width: 367px; height: 48px">\
                <div xmlns="http://www.w3.org/1999/xhtml" title=""><span class="default-text2-container-wrapper default-text2-version2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
-                        <p>Please navigate back if you would like to change your selections, otherwise you may close this window and return to the\
-                           survey.\
-                        </p></span></span></div>\
+                        <p>Please navigate back if you would like to change your selections, otherwise you may close this window and return to the survey.</p></span></span></div>\
             </div>\
          </div>\
          <div id="__containerId__-layer56941342-1566052090" style="position: absolute; left: 380px; top: 295px; width: 163px; height: 20px;-webkit-transform: rotate(0deg);transform: rotate(0deg);" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="1566052090" data-review-reference-id="1566052090">\
             <div class="stencil-wrapper" style="width: 163px; height: 20px">\
                <div xmlns="http://www.w3.org/1999/xhtml" title="" style="width:173px;width:-webkit-max-content;width:-moz-max-content;width:max-content;"><span class="default-text2-container-wrapper default-text2-version2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
-                        <p style="font-size: 14px;"><span style="font-size: 18px;">Due today:  <span class="bold">$323.89</span></span></p></span></span></div>\
+                        <p style="font-size: 14px;"><span style="font-size: 18px;">Due today:  <span class="bold">$29.99</span></span></p></span></span></div>\
             </div>\
          </div>\
       </div>\
